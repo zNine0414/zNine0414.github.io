@@ -8,7 +8,7 @@
       <link href="/posts/c32b6e4c.html"/>
       <url>/posts/c32b6e4c.html</url>
       
-        <content type="html"><![CDATA[<ol><li>npm 镜像</li><li>颜色 css</li><li>安装 hexo</li><li>安装 Butterfly</li><li>修改 _config.yml</li><li>配置文章链接转数字或字母</li><li>本地搜索依赖</li><li>live2d</li><li>sitemap</li><li>Rss</li><li>追番插件</li><li>百度主动推送</li><li>aplayer 音乐播放器</li><li>配置自定义 css</li><li>配置 pwa</li><li>添加外挂标签</li><li>添加 wowjs 特效</li><li>留言板：薇尔莉特信封</li><li>使用 Github Action 实现全自动部署 （未完成）</li><li>页脚 github 徽标和计时器</li><li>电子钟</li><li>Gitcalendar</li><li>hexo-butterfly-swiper-anzhiyu 插件安装</li><li>hexo-butterfly-categories-card</li><li>友链朋友圈</li><li>魔改友人帐</li><li>字数统计</li><li>使用 github-action 推送博客部署仓库至 NPM</li><li>引入阿里图标</li><li>站点动态 title</li><li>时间轴生肖</li><li>打赏按钮投币彩蛋效果</li><li>每页单独配置背景图</li><li>菜单栏多色图标配置教程</li><li>Social 卡片彩色图标引入</li><li>404 页面展示最近文章</li><li>random.js 随机跳转一篇文章</li><li>右键菜单魔改</li><li>评论弹幕</li><li>文章双栏</li><li>站外链接 tag</li><li>bilibili 视频适配</li><li>文章页局部 html 代码不渲染</li><li>文章置顶</li><li>文章页 H1-H6 图标风车样式效果</li><li>侧边栏标签修改</li><li>侧边栏归档修改</li><li>侧边栏最近文章修改</li><li>加载渐变条</li><li>侧边栏个人卡片渐变色</li></ol>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>快捷命令：<br>输入hexo server或者hexo s 启动项目<br>hexo clean; hexo generate; hexo deploy  // VSCODE终端</p></blockquote><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://anzhiy.cn/posts/sdxhu.html">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/anzhiy.cn/posts/sdxhu.html.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">博客魔改教程原文</div>            <div class="tag-link-sitename">安知鱼</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div><ol><li>npm 镜像</li><li>颜色 css</li><li>安装 hexo</li><li>安装 Butterfly</li><li>修改 _config.yml</li><li>配置文章链接转数字或字母</li><li>本地搜索依赖</li><li>live2d</li><li>sitemap</li><li>Rss</li><li>追番插件</li><li>百度主动推送</li><li>aplayer 音乐播放器</li><li>配置自定义 css</li><li>配置 pwa</li><li>添加外挂标签</li><li>添加 wowjs 特效</li><li>留言板：薇尔莉特信封</li><li>使用 Github Action 实现全自动部署 （未完成）</li><li>页脚 github 徽标和计时器</li><li>电子钟</li><li>Gitcalendar</li><li>hexo-butterfly-swiper-anzhiyu 插件安装</li><li>hexo-butterfly-categories-card</li><li>友链朋友圈</li><li>魔改友人帐</li><li>字数统计</li><li>使用 github-action 推送博客部署仓库至 NPM</li><li>引入阿里图标</li><li>站点动态 title</li><li>时间轴生肖</li><li>打赏按钮投币彩蛋效果</li><li>每页单独配置背景图</li><li>菜单栏多色图标配置教程</li><li>Social 卡片彩色图标引入</li><li>404 页面展示最近文章</li><li>random.js 随机跳转一篇文章</li><li>右键菜单魔改</li><li>评论弹幕</li><li>文章双栏</li><li>站外链接 tag</li><li>bilibili 视频适配</li><li>文章页局部 html 代码不渲染</li><li>文章置顶</li><li>文章页 H1-H6 图标风车样式效果</li><li>侧边栏标签修改</li><li>侧边栏归档修改</li><li>侧边栏最近文章修改</li><li>加载渐变条</li><li>侧边栏个人卡片渐变色</li></ol><ul><li>其他教程链接<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.fomal.cc/posts/3451f874.html">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/www.fomal.cc/posts/3451f874.html.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">博客魔改教程2号</div>            <div class="tag-link-sitename">Fomalhaut</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div></li></ul><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.cnblogs.com/antmoe/p/12846393.html">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/www.cnblogs.com/antmoe/p/12846393.html.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">css导入</div>            <div class="tag-link-sitename">antmoe</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://tzy1997.com/articles/hexo1604/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/tzy1997.com/articles/hexo1604/.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">从零搭建</div>            <div class="tag-link-sitename">唐志远</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div>]]></content>
       
       
       <categories>
@@ -62,7 +62,7 @@
       <link href="/posts/b3943d3e.html"/>
       <url>/posts/b3943d3e.html</url>
       
-        <content type="html"><![CDATA[<h3 id="开头"><a href="#开头" class="headerlink" title="开头"></a>开头</h3><p>打下标题的时候，已经是半夜 1:15，距离 Girls Planet 999 决赛还有不到 20 个小时，最后一票也投给了苏芮琪。这位姐姐（比我大 2 岁）真的是陪伴了我追的每一届选秀：创造 101、创造营 2020 到现在的 Girls Planet 999，前两届其实都有注意到苏芮琪，只不过已经有了 one pick 就没再加推。在追堡的时候，其实苏芮琪已经有了很多粉丝基础，可惜吸粉真的是一门玄学，六边形水平真的太难出头了，而且是在修音特别多的中国选秀节目。不过好在 999 苏芮琪终于有了出彩的初舞台、完美的三次公演，只差一个向往已久的出道位了。<br><img src="https://secure2.wostatic.cn/static/t48CcWvXYoc8pHRrm4ZS6S/image.png?auth_key=1672778819-istXEhTtLfHcqYKPc2BDcQ-0-f3a0fcd8ce16b96acd8a60f5e8b128e2&file_size=217423"></p><p>哈哈，上一次投票还是在 18 年</p><h3 id="回顾"><a href="#回顾" class="headerlink" title="回顾"></a>回顾</h3><p>从赛程最后一天往前看，这场选秀并没有什么突出之处。如果不是这 33 位中国选手，我可能会头也不回地跑路吧（笑）。</p><p><img src="https://secure2.wostatic.cn/static/gpjK5R7Zdeeea1YY2JpJsY/image.png?auth_key=1672778567-3Q9KZgtPwCinj4hHVkAKLg-0-ea92bffa44c18a6fbeed126dc4957de8"><br>没有找到全员合照，先用这张吧</p><p>虽然初舞台大家都说烂，但是搞过选秀都知道全开麦对于这些中国选手其实是很有难度的…</p><p>和流水线制造爱豆的韩国偶像产业比，这些参加节目国产爱豆自然是必败无疑。中国现在的偶像产业，可以说完全是野蛮生长，下一次能看到这么多优质的中国爱豆舞台或许还要很久很久。</p><p><img src="https://secure2.wostatic.cn/static/m16e2sKS2Z6gSBQeoRGt5u/image.png?auth_key=1672778567-tMmiact5fTf192HSWJGYBa-0-ff36884a7074ba64fe889c1c15c88bd4"></p><p>初舞台在 bilibili 上的最高播放视频</p><p>最喜欢的舞台还是三公的snake</p><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=463514409&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div><h3 id="感叹"><a href="#感叹" class="headerlink" title="感叹"></a>感叹</h3><p>这么多的舞台，在今天就要结束了。<br>这次的选秀完结后，这几年应该很难看到了。<br>希望所有选手都能实现梦想，平安回国。</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="开头"><a href="#开头" class="headerlink" title="开头"></a>开头</h3><p>打下标题的时候，已经是半夜 1:15，距离 Girls Planet 999 决赛还有不到 20 个小时，最后一票也投给了苏芮琪。这位姐姐（比我大 2 岁）真的是陪伴了我追的每一届选秀：创造 101、创造营 2020 到现在的 Girls Planet 999，前两届其实都有注意到苏芮琪，只不过已经有了 one pick 就没再加推。在追堡的时候，其实苏芮琪已经有了很多粉丝基础，可惜吸粉真的是一门玄学，六边形水平真的太难出头了，而且是在修音特别多的中国选秀节目。不过好在 999 苏芮琪终于有了出彩的初舞台、完美的三次公演，只差一个向往已久的出道位了。<br><img src="https://www.hualigs.cn/image/6432857e283c6.jpg"></p><p>哈哈，上一次投票还是在 18 年</p><h3 id="回顾"><a href="#回顾" class="headerlink" title="回顾"></a>回顾</h3><p>从赛程最后一天往前看，这场选秀并没有什么突出之处。如果不是这 33 位中国选手，我可能会头也不回地跑路吧（笑）。</p><p><img src="https://www.hualigs.cn/image/6432858a31d90.jpg"><br>没有找到全员合照，先用这张吧</p><p>虽然初舞台大家都说烂，但是搞过选秀都知道全开麦对于这些中国选手其实是很有难度的…</p><p>和流水线制造爱豆的韩国偶像产业比，这些参加节目国产爱豆自然是必败无疑。中国现在的偶像产业，可以说完全是野蛮生长，下一次能看到这么多优质的中国爱豆舞台或许还要很久很久。</p><p><img src="https://www.hualigs.cn/image/64328581a08aa.jpg"></p><p>初舞台在 bilibili 上的最高播放视频</p><p>最喜欢的舞台还是三公的snake</p><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=463514409&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div><h3 id="感叹"><a href="#感叹" class="headerlink" title="感叹"></a>感叹</h3><p>这么多的舞台，在今天就要结束了。<br>这次的选秀完结后，这几年应该很难看到了。<br>希望所有选手都能实现梦想，平安回国。</p>]]></content>
       
       
       <categories>
@@ -117,42 +117,9 @@
     
     
     <entry>
-      <title>bangumis</title>
-      <link href="/bangumis/index.html"/>
-      <url>/bangumis/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -172,11 +139,44 @@
     
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>bangumis</title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/js/runtime/runtime.js"/>
       <url>/js/runtime/runtime.js</url>
       
         <content type="html"><![CDATA[var now = new Date();function createtime() {    var grt = new Date("09/19/2021 02:00:00");    now.setTime(now.getTime() + 250);    var days = (now - grt) / 1e3 / 60 / 60 / 24,        dnum = Math.floor(days),        hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,        hnum = Math.floor(hours);    1 == String(hnum).length && (hnum = "0" + hnum);    var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,        mnum = Math.floor(minutes);    1 == String(mnum).length && (mnum = "0" + mnum);    var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,        snum = Math.round(seconds);    1 == String(snum).length && (snum = "0" + snum);    let currentTimeHtml = "";    (currentTimeHtml =        hnum < 18 && hnum >= 9            ? `本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`            : `本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),        document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = currentTimeHtml);}setInterval(() => {    createtime();}, 250);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
